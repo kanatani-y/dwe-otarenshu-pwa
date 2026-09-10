@@ -1,0 +1,15 @@
+{
+  "name": "DWE おうたれんしゅう",
+  "short_name": "DWEれんしゅう",
+  "description": "DWEの歌・動画・CAP課題を練習するアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef9ff",
+  "theme_color": "#78c9ec",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
